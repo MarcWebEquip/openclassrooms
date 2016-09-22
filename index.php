@@ -2,6 +2,7 @@
 /* */ 
 include "header.php";
 ?>
+Ajout de quelques lignes de Code :)
 
  <!-- Portfolio Grid Section -->
     <section id="portfolio">
