@@ -107,7 +107,7 @@ Ajout de quelques lignes de Code :)
 <li>Examen avancé – Publicité sur le réseau de recherche – 99 questions – Note d’admission : 80 % ;</li>
 <li>Examen avancé – Publicité display – 90 questions – Note d’admission : 70 %.</li>
 </ul>
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 						
@@ -121,7 +121,7 @@ Ajout de quelques lignes de Code :)
 <li>2</li>
 <li>3</li>
 </ul>
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 						
@@ -129,8 +129,8 @@ Ajout de quelques lignes de Code :)
 							<span class="glyphicon glyphicon-signal"></span><span class="name">
 							<a href="#">Certification Symfony</a></span>
 							<span class="role">Attendee</span><span class="state completed">Completed</span>
-							<span class="description" style="display: block;">Our team was picked to attended the HackEd 2.0 Hackathon at Facebook HQ in Menlo Park, CA. Competing against roughly 25 other teams to build educational apps, especailly focused on low-income families.
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<span class="description" style="display: block;">
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 						
@@ -138,8 +138,8 @@ Ajout de quelques lignes de Code :)
 							<span class="fa-facebook-official"></span><span class="name">
 							<a href="#">Certification Symfony</a></span>
 							<span class="role">Attendee</span><span class="state completed">Completed</span>
-							<span class="description" style="display: block;">Our team was picked to attended the HackEd 2.0 Hackathon at Facebook HQ in Menlo Park, CA. Competing against roughly 25 other teams to build educational apps, especailly focused on low-income families.
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<span class="description" style="display: block;">
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 					</ul>
@@ -152,17 +152,32 @@ Ajout de quelques lignes de Code :)
 							<span class="glyphicon glyphicon-wrench"></span><span class="name">
 							<a href="#"><b>Auto Formation Vagrant</b></a></span>
 							<span class="role">Attendee</span><span class="state completed">Completed</span>
-							<span class="description" style="display: block;">Our team was picked to attended the HackEd 2.0 Hackathon at Facebook HQ in Menlo Park, CA. Competing against roughly 25 other teams to build educational apps, especailly focused on low-income families.
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<span class="description" style="display: block;">
+							Dans le cadre du rappatriment d'une  boutique Prestashop en local, le prestataire en charge du site
+							nou recommande l'utlisation de Vagrant, nous permettant d'avoir un environnement 100% iSo.
+							De plus cet environnement est portable, sécurisé et pourra être maintenu à jour.
+							Il pourra également être partageable grâce au fichier de config si une équipe de développeurs était envisagée par la suite.
+							Les ressourses de la machine host seront bien mieux optimisée, la saubegarde plus facile.
+							De nombreux outils sont inclus comme un client GIT ou même SVN.
+							Cette machine est de plus portable quelque soit l'OS de l'host.					
+							
+							
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 						
 						<li class="event">
 							<span class="fa fa-git"></span><span class="name">
-							<a href="#"><b>Auto Formation Vagrant</b></a></span>
+							<a href="#"><b>Auto Formation GIT HUB & SVN</b></a></span>
 							<span class="role">Attendee</span><span class="state completed">Completed</span>
-							<span class="description" style="display: block;">Our team was picked to attended the HackEd 2.0 Hackathon at Facebook HQ in Menlo Park, CA. Competing against roughly 25 other teams to build educational apps, especailly focused on low-income families.
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<span class="description" style="display: block;">
+							Afin de pouvoir versionner une application web sous Prestashop, je m'autoforme à l'utilisation des systèmes de versioning dont GIT puis SVN.
+							Ces technilogies font aujourdéhui parti des standars lorsque l'on développe des applications et elles présentent de nombreux avantages : 
+							Versionning de l'application
+							Travail en équipe sur un même projet
+							Possibilité de revenir sur une version précédente
+							Suivi de l'évolution de projet, de ses branches ...
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 					
@@ -174,7 +189,7 @@ Ajout de quelques lignes de Code :)
 							<span class="description" style="display: block;">
 							Dans le cadre de mon intégration chez WebEquip, je vais suivre une formation dans les
 							Locaux de Prestahop à Paris pour avoir quelques notions et astuces sur le Dev sous Prestaxhop
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 						
@@ -183,7 +198,7 @@ Ajout de quelques lignes de Code :)
 							<a href="#"><b>Formation Prestashop Développeur de Modules</b></a></span>
 							<span class="role">Attendee</span><span class="state ongoing">A l'étude</span>
 							<span class="description" style="display: block;">Afin de disposer de bonnes bases pour la création de modules, WebEquip me propsoe d'intégrer une formation de Developpeur de module dans les locaux de prestashop à Paris
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 					</ul>
@@ -195,7 +210,7 @@ Ajout de quelques lignes de Code :)
 							<span class="name"><a href="#"><b>Certification Html5</b></a></span>
 							<span class="role">Attendee</span><span class="state stalled">En cours</span>
 							<span class="description" style="display: block;">Our team was picked to attended the HackEd 2.0 Hackathon at Facebook HQ in Menlo Park, CA. Competing against roughly 25 other teams to build educational apps, especailly focused on low-income families.
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 						
@@ -204,7 +219,7 @@ Ajout de quelques lignes de Code :)
 							<a href="#">Certification Css3</a></span>
 							<span class="role">Attendee</span><span class="state completed">Completed</span>
 							<span class="description" style="display: block;">Our team was picked to attended the HackEd 2.0 Hackathon at Facebook HQ in Menlo Park, CA. Competing against roughly 25 other teams to build educational apps, especailly focused on low-income families.
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 						
@@ -213,7 +228,7 @@ Ajout de quelques lignes de Code :)
 							<a href="#">Chaine Google plus</a></span>
 							<span class="role">Attendee</span><span class="state completed">Completed</span>
 							<span class="description" style="display: block;">Our team was picked to attended the HackEd 2.0 Hackathon at Facebook HQ in Menlo Park, CA. Competing against roughly 25 other teams to build educational apps, especailly focused on low-income families.
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 						
@@ -222,7 +237,7 @@ Ajout de quelques lignes de Code :)
 							<a href="#">Chaine Youtube</a></span>
 							<span class="role">Attendee</span><span class="state completed">Completed</span>
 							<span class="description" style="display: block;">Our team was picked to attended the HackEd 2.0 Hackathon at Facebook HQ in Menlo Park, CA. Competing against roughly 25 other teams to build educational apps, especailly focused on low-income families.
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 						
@@ -231,7 +246,7 @@ Ajout de quelques lignes de Code :)
 							<a href="#">Création de Blogs sous Wordpress </a></span>
 							<span class="role">Attendee</span><span class="state completed">Completed</span>
 							<span class="description" style="display: block;">Our team was picked to attended the HackEd 2.0 Hackathon at Facebook HQ in Menlo Park, CA. Competing against roughly 25 other teams to build educational apps, especailly focused on low-income families.
-							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
+							<a class="readmore" target="_blank" href="">Read more »</a>
 							</span>
 						</li>
 					</ul>
