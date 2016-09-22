@@ -182,7 +182,7 @@ Ajout de quelques lignes de Code :)
 							<span class="glyphicon glyphicon-shopping-cart"></span><span class="name">
 							<a href="#"><b>Formation Prestashop Développeur de Modules</b></a></span>
 							<span class="role">Attendee</span><span class="state ongoing">A l'étude</span>
-							<span class="description" style="display: block;">Our team was picked to attended the HackEd 2.0 Hackathon at Facebook HQ in Menlo Park, CA. Competing against roughly 25 other teams to build educational apps, especailly focused on low-income families.
+							<span class="description" style="display: block;">Afin de disposer de bonnes bases pour la création de modules, WebEquip me propsoe d'intégrer une formation de Developpeur de module dans les locaux de prestashop à Paris
 							<a class="readmore" target="_blank" href="https://www.facebook.com/media/set/?set=a.10151562949920272.1073741825.191921000271&amp;type=1">Read more »</a>
 							</span>
 						</li>
